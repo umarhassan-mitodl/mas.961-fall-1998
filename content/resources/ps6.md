@@ -4,6 +4,8 @@ description: Photography assignment.
 file: /courses/mas-961-numeric-photography-fall-1998/e2e4aee5cd3745045f4f331c670e74f9_ps6.pdf
 file_size: 51572
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
