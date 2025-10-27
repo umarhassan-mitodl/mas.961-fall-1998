@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, text, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -86,4 +84,4 @@ This course is sponsored with generous donations from Minolta and Interval Resea
 Exhibition
 ----------
 
-An exhibition of student work was held at the MIT Media Laboratory atrium on December 11th, 1998. Information about this show, and its permanent online component, is available in the [projects](http://acg.media.mit.edu/courses/mas961/exhibition/overview.html) section.
+An exhibition of student work was held at the MIT Media Laboratory atrium on December 11th, 1998. Information about this show, and its permanent online component, is available in the {{% resource_link "d98cda13-6e45-43cd-9050-f9ce5fba63e8" "projects" %}} section.

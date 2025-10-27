@@ -6,8 +6,6 @@ description: A composite image whose cells contain example images of each studen
 file: /courses/mas-961-numeric-photography-fall-1998/b1358bbcdb8c53fd42a77134c97b0e0f_mas-961f98-th.jpg
 file_size: 8955
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: A composite image whose cells contain example images of each student's
     work. Cell boundaries were blended with custom software developed by MAS.961 student
